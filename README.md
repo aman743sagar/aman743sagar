@@ -43,7 +43,7 @@ Full Stack Development | Coding Thinker
  Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js (MERN).
  Java with DSA
 
-##📫 How to reach me
+## 📫 To reach me
 -📞 Contact:8840124941
 - 📧 Email: amansagar60281@gmail.com
 - 🌐 Portfolio: https://amansagar.lovable.app/
