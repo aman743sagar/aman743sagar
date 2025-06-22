@@ -1,6 +1,7 @@
 ## Hi there , I'm Aman Sagar 👋
 
-##🚀I'm , a passionate and self-driven Full-Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy turning complex problems into simple, beautiful, and intuitive web applications.
+## 🚀 About me
+I'm , a passionate and self-driven Full-Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy turning complex problems into simple, beautiful, and intuitive web applications.
 
 ## 💻 Skills
 Programming Languages: Java, Python ,Data Structure and Algorithms, HTML, CSS, JavaScript
