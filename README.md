@@ -1,8 +1,8 @@
 ## Hi there , I'm Aman Sagar 👋
 
-🚀I'm , a passionate and self-driven Full-Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy turning complex problems into simple, beautiful, and intuitive web applications.
+##🚀I'm , a passionate and self-driven Full-Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy turning complex problems into simple, beautiful, and intuitive web applications.
 
-💻 Skills
+##💻 Skills
 Programming Languages: Java, Python ,Data Structure and Algorithms, HTML, CSS, JavaScript
 Database Languages: MongoDB, MYSQL
 Developer Tools: Git, Github, VSCode, MYSQL, Postman, Eclipse
@@ -10,11 +10,11 @@ Technologies/ Frameworks: BootStrap, React.js, Node.js, Express.js
 Soft Skills: Collaboration, Communication, Planning, Teamwork, Time Management, Leadership
 
 
-🎓Education
+##🎓Education
 Shri Rawatpura sarkar institute of Technology
 Bachleor of Technology in Computer Science
 
-💼 Experience
+##💼 Experience
 SDE Intern-Coding Thinker July 2023 - April 2024
 ● Specialized in Java with Data structure , implementing efficient algorithms and object-oriented principles in projects,
 implementing efficient algorithms and object-oriented principles in projects
@@ -23,7 +23,7 @@ MERN stack (MongoDB, Express.js, React.js, Node.js)
 ● Demonstrated proficiency in backend development ,designing scalable API , and developing interactive and user-friendly
 Application
 
-🧑‍💻Project
+##🧑‍💻Project
 FOOD ORDER WEBPAGE
 ● Built a full-stack food delivery app inspired by Zomato, featuring restaurant listings, search, and user reviews.
 ● Developed RESTful APIs for handling restaurant data, user authentication , and order management.
@@ -38,12 +38,12 @@ REAL-TIME CHAT WEBSITE
 ● Designed a responsive UI with React to provide seamless user experience across devices.
 ● URL:https://github.com/aman743sagar/chatapp-frontend
 
-📜 Certifications
+##📜 Certifications
 Full Stack Development | Coding Thinker
  Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js (MERN).
  Java with DSA
 
-📫 How to reach me
+##📫 How to reach me
 -📞 Contact:8840124941
 - 📧 Email: amansagar60281@gmail.com
 - 🌐 Portfolio: https://amansagar.lovable.app/
